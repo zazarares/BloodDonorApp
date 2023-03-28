@@ -1,0 +1,7 @@
+Run din packet manager console la comenzile
+enable-migrations
+add-migration "nume"
+update database
+(pentru creearea bazei de date)
+trebuie decomnetat codul din pageload din webform1 pentru a face insert la admin
+insert la donator se face automat de pe site
